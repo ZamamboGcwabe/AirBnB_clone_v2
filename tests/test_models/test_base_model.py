@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ Test for the base model """
 
-models.base_model import BaseModel
+from models.base_model import BaseModel
 import unittest
 import datetime
 from uuid import UUID
